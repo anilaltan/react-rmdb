@@ -24,11 +24,11 @@
 ![screenshot](Screenshot.png)
 
 - Where can I see your demo?
-- You can see it by clicking this address.(https://focused-euclid-b04e3f.netlify.app/)
+You can see it by clicking this address.(https://focused-euclid-b04e3f.netlify.app/)
 - What was your experience?
-- I have completely built a page on my own and have practiced my knowledge
+I have completely built a page on my own and have practiced my knowledge
 - What have you learned/improved?
-- Reinforced my JS, React, HTML, CSS knowledge
+Reinforced my JS, React, HTML, CSS knowledge
 
 ### Built With
 
